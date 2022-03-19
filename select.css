@@ -20,10 +20,12 @@ body {
     width: 100px;
     height: 100px;
     color: rgba(255, 255, 255, 0.897);
+    font-size: larger;
 }
 
 label {
     margin: 5px;
+    margin-right: 6px;
 }
 
 .custom-select-container{
